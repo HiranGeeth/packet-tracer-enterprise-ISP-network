@@ -40,6 +40,8 @@ This project simulates a complete **Enterprise Network** connecting a **remote b
 | **Wired PC** | DHCP | 192.168.1.50-200 | 255.255.255.0 | 192.168.1.0/24 | Employee PC |
 | **Wireless Laptop** | DHCP | 192.168.2.50-200 | 255.255.255.0 | 192.168.2.0/24 | Mobile User |
 
+<img width="1917" height="1002" alt="complete_network" src="https://github.com/user-attachments/assets/1143f2b5-2814-469d-b492-ac0e37b8d2b2" />
+
 ### 🔧 Technologies Implemented
 
 | Technology | Configuration | Purpose |
